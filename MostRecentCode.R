@@ -1,3 +1,12 @@
+#####################
+#organizing your scripts
+
+#######
+#load packages
+
+#######
+#load data
+
 m2 <- c(0,22.7,1, 22.7,30.8,2, 30.8,39.1,3, 39.1,47,4, 47,130,5) #In order of human impact
 #From Davis et all. categories: 
 #0-22.7 = OGSI 80, 22.7-30.8= OGSI 120, 30.8-39.1 = OGSI 160, 39.1-47 = OGSI 200
